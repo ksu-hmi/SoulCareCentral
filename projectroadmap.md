@@ -4,6 +4,11 @@
 
 - [ ] Create and push initial repo (Assigned: Shanancy)
 - [x] Research related repos and evaluate for integration (Assigned: Shanancy)
+### Sprint 1 Tasks
+
+- [x] Find and evaluate Hint repo (Assigned: Shanancy)
+- [x] Evaluate MindfulNotifier for cross-platform reminders (Assigned: Shanancy)
+- [ ] Search for a Python-native reminder system to run and test
 - [ ] Document setup and findings in this roadmap (Assigned: Shanancy)
 - [ ] Create initial wireframe/mockup of UI layout (Assigned: Shanancy)
 - [ ] Set up initial `README.md` and basic folder structure (Assigned:Shanancy)
@@ -38,3 +43,22 @@
 
 **Conclusion:**
 The Hint repo is not directly portable to Python but offers excellent UX and timing logic inspiration. A cross-platform Python-based alternative will be explored for implementation.
+
+
+---
+
+## ✅ Evaluated Repository: MindfulNotifier
+
+**Repository:** [MindfulNotifier](https://github.com/kmac/mindfulnotifier)
+
+**Purpose:** Investigate a potential Python-based reminder system for SoulCare Solutions Central.
+
+**Findings:**
+- Project is built using **Flutter** (not Python)
+- Source code located in `lib/`, written in Dart
+- Designed as a cross-platform **mobile app** (Android/iOS)
+- Includes logic for notifications and mindfulness reminders
+
+**Conclusion:**
+The MindfulNotifier project is well-structured and offers good design inspiration for mobile reminders, but it is **not Python-based** and therefore not directly usable in SoulCare. We will explore other Python-native options such as `BreakTimer` or build a custom reminder tool using `Tkinter`, `plyer`, or `schedule`.
+

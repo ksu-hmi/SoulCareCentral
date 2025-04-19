@@ -1,0 +1,24 @@
+# 📍 SoulCare Central – Project Roadmap
+
+## 🗓️ Sprint 1 Tasks (April 13 – April 20)
+
+- [ ] Create and push initial repo (Assigned: Shanancy)
+- [ ] Research related repos and evaluate for integration (Assigned: Shanancy)
+- [ ] Document setup and findings in this roadmap (Assigned: Shanancy)
+- [ ] Create initial wireframe/mockup of UI layout (Assigned: Shanancy)
+- [ ] Set up initial `README.md` and basic folder structure (Assigned:Shanancy)
+- [ ] Create markdown doc listing desired features and stretch goals (Assigned: Shanancy)
+
+## 📚 Findings from Related Projects
+### 1. Hint (MacOS)
+- Platform-specific but elegant reminders UI
+- Possible inspiration for notification scheduling
+
+### 2. Mindful Notifier
+- Simple timer-based interface for focus sessions
+- Lightweight and adaptable to different platforms
+
+### 3. Box Breathing
+- Very focused scope — strong breathing exercise logic
+
+✅ Consider combining elements from Hint’s reminder UI and Box Breathing’s breathing control as modules.

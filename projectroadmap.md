@@ -22,8 +22,8 @@
 - [x] Change background color to reflect session type
 - [x] Display random stretch pose visuals during breaks
 - [ ] Add journaling prompt popup after long breaks
-- [ ] Add “Skip Pose” and pose description under stretch image
-- [ ] Add settings screen to customize work/break durations
+- [ ] Add affirmations to study time
+- [x] Add settings screen to customize work/break durations
 
 ---
 
@@ -116,3 +116,24 @@ This feature boosts user engagement by encouraging physical movement alongside m
 ### Next Steps:
 - Include “Skip Pose” functionality
 - Integrate Journal prompts for longer breaks 
+
+## ✅ Feature Added: Affirmations During Study Sessions
+
+**Date Added:** April 26, 2025  
+**Contributor:** Shanancy  
+
+### Description:
+Implemented positive affirmations that appear at the beginning of each work session to promote focus, motivation, and encouragement. Affirmations fade in smoothly to create a calm and supportive study environment.
+
+### Features:
+- Pulls random affirmations from a separate `affirmations.py` module
+- Displays a new affirmation at the start of each work period
+- Smooth fade-in effect added using Tkinter’s `after()` method
+- Complements stretch visuals and reminders during breaks for full wellness experience
+
+### Impact:
+Boosts user engagement and emotional support during focused study periods. Reinforces SoulCare’s mission to improve both mental and physical wellness during daily habits.
+
+### Next Steps:
+- Add journal prompts for longer breaks
+- Customize logo

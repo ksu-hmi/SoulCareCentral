@@ -25,6 +25,19 @@
 - [ ] Add affirmations to study time
 - [x] Add settings screen to customize work/break durations
 
+### Sprint 3 Task List (April 28 - May1)
+
+- [x] Customized Pomodoro Timer for SoulCare Central
+  - [x] Added stretch and water break reminders
+  - [x] Added random affirmations during work sessions
+  - [x] Added journal prompts and mood tracking after work sessions
+  - [x] Changed background colors for work, short break, and long break
+  - [x] Created and resized SoulCare Central logo
+  - [x] Enlarged timer box and logo to better fill the window
+- [x] Set up start and reset timer functionality
+- [x] Set up affirmations and stretch pose image display
+- [x] Improved GUI design for clean, professional appearance
+
 ---
 
 ## 📚 Findings from Related Projects
@@ -137,3 +150,33 @@ Boosts user engagement and emotional support during focused study periods. Reinf
 ### Next Steps:
 - Add journal prompts for longer breaks
 - Customize logo
+
+### Sprint 3 Updates
+
+**Selected Base Project**
+- Chose a Pomodoro Timer application as the foundation for SoulCare Central, providing a structured timer framework for wellness routines.
+
+**Stretch and Water Break Reminders**
+- Integrated randomized stretch and hydration reminders during breaks to encourage physical activity and self-care.
+
+**Random Affirmations During Work Sessions**
+- Added motivational affirmations during work periods to promote mental positivity and mindfulness.
+
+**Journal Prompts and Mood Tracking**
+- Implemented journal prompts and mood tracking after work sessions to support self-reflection and emotional wellness tracking.
+
+**Dynamic Background Color Changes**
+- Developed dynamic background color changes to visually distinguish between work sessions, short breaks, and long breaks, enhancing user experience.
+
+**SoulCare Central Logo Integration**
+- Created, resized, and embedded a SoulCare Central logo to personalize branding and promote app identity.
+
+**Enlarged Timer Box and Resized Visual Elements**
+- Increased canvas and logo sizes to better utilize screen space and improve readability of session timers.
+
+**Start and Reset Functionality**
+- Implemented full start and reset timer controls, enabling users to manage session flows easily.
+
+**GUI Refinement**
+- Aligned design elements (fonts, background colors, layout) to create a clean, calming, and professional user interface in line with SoulCare’s branding.
+
